@@ -3,6 +3,7 @@ A very simple discord bot, allowing users to show avatars and banners.
 
 
 ## Screenshot
+![unknown (3)](https://user-images.githubusercontent.com/1645347/152072247-fd34122c-7e47-4631-ad5f-48aa4e578d48.png)
 
 
 ## Usage
