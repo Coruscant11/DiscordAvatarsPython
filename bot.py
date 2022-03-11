@@ -113,4 +113,4 @@ async def on_message(message):
                 await send_banner(message, user)
 
 
-client.run(TOKEN) # Run the bot 
+client.run(TOKEN) # Run the bot
